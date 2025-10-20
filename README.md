@@ -1,4 +1,4 @@
-# 🧠 Trend Classification Model (LSTM-based)
+# 📈 Trend Classification Model (LSTM-based)
 
 **Author:** Zuzanna Staśkowiak  
 **Part of the project:** *Predicting Online Trends for the Gastronomy Sector: A Machine Learning Approach*   
